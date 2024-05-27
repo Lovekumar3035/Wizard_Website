@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: japan;
+    src: url(./3856NeueMachina.ttf);
+}
+
+.center-part1 h1 {
+    font-family: japan;
+}
+
+.services h1 {
+    font-family: japan;
+}
+
+.elem-part1 h2 {
+    font-family: japan;
+}
+
+nav h1,nav h4,nav button{
+    font-family:  japan;
+}
+
